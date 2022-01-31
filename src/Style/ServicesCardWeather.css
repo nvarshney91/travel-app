@@ -1,0 +1,41 @@
+
+.grp48{
+    width: 240px;
+    background-color: white;
+    border-radius: 26px;
+    margin: auto;
+}
+.Weather{
+    margin-top: 40px;
+    margin-left: 80px; 
+}
+.headline{
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 27px;
+text-align: center;
+color: #1E1D4C;
+margin-top: 1em;
+}
+.text{
+font-family: Poppins;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+text-align: center;
+/* TEXT CLR */
+color: #5E6282;
+width: 150px;
+margin-left: 45px;
+}
+.event{
+    margin-top: 42px;
+    margin-left: 80px; 
+}
+.custom{
+    margin-top: 52px;
+    margin-left: 80px; 
+}

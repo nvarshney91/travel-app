@@ -1,0 +1,116 @@
+.BookGreece{
+    background-color: white;
+    width: 370px;
+    height: 400px;
+    margin: 65px;
+    border-radius: 24px;
+    border: 0.5px solid #eee;
+    /* box-shadow: ; */
+    box-shadow: 105px -105px 100px -95px #59B1E6;
+}
+.options{
+    margin-top: 20px;
+}
+.greece-img{
+    padding: 25px;
+}
+.greece-text{
+    padding-left: 25px;
+}
+.greecehead{
+font-family: Poppins;
+font-style: normal;
+font-weight: 550;
+font-size: 18px;
+line-height: 124.5%;
+/* or 22px */
+letter-spacing: 0.015em;
+/* black */
+color: #080809
+}
+.greeceheadtext{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 540;
+font-size: 16px;
+line-height: 124.5%;
+/* identical to box height, or 20px */
+letter-spacing: -0.005em;
+/* text 2 */
+color: #84829A;
+margin-top: 20px;
+}
+.slide{
+position: absolute;
+display:flex;
+width: 293px;
+height: 129px;
+left: 726px;
+top: 285px;
+border-radius: 26px;
+box-shadow: 0px 0px 50px #808099;
+background-color: white;
+}
+.slide-details{
+margin-top: 20px;
+margin-left: 15px;
+}
+.mask{
+    margin-top: 25px;
+    margin-left: 25px;
+    height: 50px;
+    width: 50px;
+}
+.on{
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 124.5%;
+/* or 17px */
+letter-spacing: -0.035em;
+/* text 2 */
+color: #84829A;
+margin-top: 5px;
+}
+.to{
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 124.5%;
+    /* or 22px */
+    letter-spacing: -0.015em;
+    /* black */
+    color: #080809;
+    margin-top: 5px;
+}
+.comp{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 124.5%;
+    /* or 17px */
+    letter-spacing: -0.055em;
+    /* black */
+    margin-top: 5px;
+}
+.slidecontainer{
+ display: flex;
+}
+.pr{
+    width: 62.4px;
+    height: 5px;
+    background: #8A79DF;
+    border-radius: 30px;
+    margin-top: 10px;
+}
+.gr{
+    width: 93.6px;
+    height: 5px;
+    background: #F1F1F1;
+    border-radius: 0px 30px 30px 0px;
+    margin-top: 10px;
+}

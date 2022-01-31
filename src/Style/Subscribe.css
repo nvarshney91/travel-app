@@ -1,0 +1,78 @@
+.Subscribe{
+    position: absolute;
+    width: 1170px;
+    height: 407px;
+    left: 186px;
+    top: 3107px;
+/* light color */
+background: rgba(223, 215, 249, 0.2);
+    display: initial;
+border-radius: 129px 20px 20px 20px;
+}
+.subs-img{
+    position: absolute;
+    left:1130px;
+    top: -30px;
+}
+.Subscribe-text{
+    padding-top: 79px;
+    padding-right: 155px;
+    padding-left: 155px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 33px;
+line-height: 54px;
+/* or 164% */
+
+text-align: center;
+
+/* TEXT CLR */
+
+color: #5E6282;
+}
+#email{
+    width: 391px;
+height: 38px;
+border:0px;
+outline:0px;
+/* white */
+padding:15px;
+border-radius: 0px 10px 10px 0px;
+}
+.eMail{
+    position: relative;
+    display:flex;
+    margin-left: 255px;
+    margin-top: 49px;
+}
+.Email{
+    border-radius: 10px 0px 0px 10px;
+    width:30px;
+    border: 21.5px solid white;
+}
+button{
+    width: 140px;
+height: 68px;
+border: 0px;
+/* gradient */
+outline: 0px;
+background: linear-gradient(180deg, #FF946D 0%, #FF7D68 100%);
+border-radius: 10px;
+margin-left: 25px;
+color: white;
+}
+.rollb{
+    position: absolute;
+    top:131px;
+    left: 25px;
+}
+.rollu{
+    position:absolute;
+    left: 965px;
+}
+.starsb{
+    position:absolute;
+    left:1103px;
+    top:320px;
+}

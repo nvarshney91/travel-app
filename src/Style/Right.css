@@ -1,0 +1,15 @@
+.Right{
+background-color: white;
+position: absolute;
+top: 3818.71px;
+left: 90vh;
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 124.5%;
+/* or 17px */
+/* TEXT CLR */
+text-align: center;
+color: #5E6282;
+}

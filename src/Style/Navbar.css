@@ -1,0 +1,28 @@
+.navbar ul{
+    overflow: auto;
+    margin-left: 150px;
+
+}
+.navbar li a #signup{ 
+    border: rgba(33, 40, 50, 1);
+  }
+.navbar li{
+    float:left;
+    list-style: none;
+    padding: 5px;
+    margin-left: 30px;
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+.navbar li select{
+    outline:0px;
+    border:0px;
+    background-color: #FFF1DA;
+}
+#signup{
+    border: 1px solid black;
+    padding: 4px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}

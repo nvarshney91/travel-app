@@ -1,0 +1,80 @@
+.description{
+position: absolute;
+width: 630px;
+height: 535px;
+left: 148px;
+top: 217px;
+}
+.heading{
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 30px;
+color: #DF6951;
+}
+.textHead{
+    /* Heading */
+    width: 545px;
+font-family: Volkhov;
+font-style: normal;
+font-weight: bold;
+font-size: 84px;
+line-height: 89px;
+/* or 106% */
+letter-spacing: -0.04em;
+/* 1st */
+color: #181E4B;
+margin-top: 20px;
+}
+.textHero{
+    width: 387px;
+    height: 90px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+margin-top: 1em;
+color: #5E6282;
+}
+.CTA{
+    margin-top: 1em;
+}
+.find{
+    background: #F1A501;
+box-shadow: 0px 20px 35px rgba(241, 165, 1, 0.15);
+border-radius: 10px;
+width: 170px;
+height: 60px;
+font-family: Google Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height */
+border: 0px;
+outline: 0px;
+text-align: center;
+color: #FFFFFF;
+}
+.but{
+    width: 100%;
+    height: 100%;
+background: #DF6951;
+box-shadow: 0px 15px 30px rgba(223, 105, 81, 0.3);
+border-radius: 50%;
+padding : 3%;
+padding-left: 24px;
+margin-left: 2em;
+}
+.but-text{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+line-height: 25px;
+margin-left: 1em;
+color: #686D77;
+}

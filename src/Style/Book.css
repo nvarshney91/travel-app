@@ -1,0 +1,68 @@
+.Book
+{
+position: absolute;
+width: 1114px;
+height: 492px;
+left: 186px;
+top: 2417px;
+display: flex;
+}
+.textbook{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+/* TEXT CLR */
+color: #5E6282;
+}
+.bookheading{
+font-family: Volkhov;
+font-style: normal;
+font-weight: bold;
+font-size: 50px;
+line-height: 64px;
+/* 3rd */
+color: #14183E;
+width: 481px;
+height: 130px;
+margin-top: 10px;
+}
+.feature{
+margin-top: 50px;
+ width: 395px;
+height: 289px;
+}
+.Choose{
+    display: flex;
+    width: 395px;
+    height: 64px;
+}
+.choosehead{
+margin-left: 25px;
+font-family: Poppins;
+font-style: normal;
+font-size: 16px;
+line-height: 124.5%;
+color: #5E6282;
+}
+.chooseheadhead{
+    font-weight: bold;
+}
+.chooseheadtext{
+font-weight: normal;
+margin-top: 5px;
+}
+.Make{
+    margin-top: 40px;
+    display: flex;
+    width: 395px;
+    height: 64px;
+}
+.Reach{
+    margin-top: 40px;
+    display: flex;
+    width: 395px;
+    height: 64px;
+}

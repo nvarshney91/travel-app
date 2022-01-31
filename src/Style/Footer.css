@@ -1,0 +1,89 @@
+.Footer{
+position: absolute;
+width: 1173px;
+height: 158.29px;
+left: 186px;
+top: 3640.71px;
+display: flex;
+}
+.Footer-logo{
+    width:207px;
+    height:133px;
+    background-color: white;
+}
+.Footerlogohead{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 44px;
+    line-height: 66px;
+/* identical to box height */
+/* 1st */
+    color: #181E4B;
+}
+.Footerlogotext{
+width: 207px;
+height: 48px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 124.5%;
+/* or 16px */
+/* TEXT CLR */
+color: #5E6282;
+}
+
+.FooterMo{
+    background-color: white;
+    width: 724px;
+height: 153px;
+display: flex;
+    }
+.FooterCompany{
+    width: 108px;
+height: 151px;
+margin: auto;
+}
+.FootCompHead{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 21px;
+    line-height: 124.5%;
+    /* or 26px */
+    /* black */
+    color: #080809;
+    margin-bottom: 20px;
+}
+.FootCompHeadA{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 124.5%;
+    /* or 22px */
+    /* TEXT CLR */
+    color: #5E6282;
+    margin-top: 13px;
+}
+.FooterRef{
+    width: 242px;
+    height:153px;
+    background-color: white;
+}
+.social{
+    display: flex;
+}
+.FooterRef-text{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 124.5%;
+/* identical to box height, or 25px */
+letter-spacing: 0.005em;
+/* TEXT CLR */
+color: #5E6282;
+margin: 10px;
+}

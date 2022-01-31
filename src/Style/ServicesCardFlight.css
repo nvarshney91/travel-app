@@ -1,0 +1,36 @@
+.grpf{
+    position: relative;
+    width: 240px;
+    background-color: white;
+    border-radius: 26px;
+    box-shadow: 10px 35px 70px -15px #808098;
+    margin: auto;
+}
+.Flight{
+    margin-top: 10px;
+    margin-left: 70px; 
+    height: 127px;
+    width: 162px;
+}
+.headline2{
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 27px;
+text-align: center;
+color: #1E1D4C;
+}
+.text2{
+font-family: Poppins;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+
+/* or 162% */
+text-align: center;
+/* TEXT CLR */
+color: #5E6282;
+width: 150px;
+margin-left: 45px;
+}

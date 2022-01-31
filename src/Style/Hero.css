@@ -1,0 +1,51 @@
+.Decore{
+    position: relative;
+    width: 806px;
+    height: 727.58px;
+    left: 95.7vh;
+    top: 0vh;
+}
+.ellipse{
+position: absolute;
+width: 478.94px;
+height: 496.86px;
+left: -420px;
+top: -59.84px;
+}
+.logo{
+    position: absolute;
+    width: 114.91px;
+    height: 33.99px;
+    left: 140.92px;
+    top: 48.7px;
+    margin:10px;
+}
+.navbar{
+position: absolute;
+width: 1160.58px;
+height: 40px;
+left: 140.92px;
+top: 47px;
+margin-left:100px;
+}
+.descript{
+position: absolute;
+width: 630px;
+height: 535px;
+left: 148px;
+top: 217px;
+}
+.traveller{
+position: absolute;
+width: 774.11px;
+height: 764px;
+left: 565px;
+top: 105px;
+}
+.decore1{
+position: absolute;
+width: 385px;
+height: 12px;
+left: 353px;
+top: 340px;
+}
