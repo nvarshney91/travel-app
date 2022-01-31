@@ -5,13 +5,13 @@ class Navbar extends Component{
         return(
            <nav className="navbar">
                <ul>
-                   <li><a>Destinations</a></li>
-                   <li><a>Hotels</a></li>
-                   <li><a>Flights</a></li>
-                   <li><a>Booking</a></li>
-                   <li><a>Login</a></li>
-                   <li><a id='signup'>Sign up</a></li>
-                   <li><a>Login</a></li>
+                   <li>Destinations</li>
+                   <li>Hotels</li>
+                   <li>Flights</li>
+                   <li>Booking</li>
+                   <li>Login</li>
+                   <li id='signup'>Sign up</li>
+                   <li>Login</li>
                    <li>
                        <select>
                            <option value="EN">EN</option>
